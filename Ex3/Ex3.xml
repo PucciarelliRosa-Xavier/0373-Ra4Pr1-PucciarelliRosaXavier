@@ -1,0 +1,34 @@
+<!DOCTYPE activitats SYSTEM "Ex3.dtd">
+
+<activitats>
+
+  <activitat codi="1" tipus="esportiva">
+
+    <nom>Escacs</nom>
+    <monitor>Jordi Verdu</monitor>
+
+    <horari>Dilluns i dimecres 17:00</horari>
+
+    <participant>Ruirong</participant>
+    <participant>Dong Yi</participant>
+
+    <lloc>
+      <interior>Poliesportiu</interior>
+    </lloc>
+
+  </activitat>
+
+  <activitat codi="2" tipus="artistica">
+
+    <nom>Teatre</nom>
+    <monitor>Laura Pons</monitor>
+
+    <participant>Clara</participant>
+
+    <lloc>
+      <exterior>Teatre de Barcelona</exterior>
+    </lloc>
+
+  </activitat>
+
+</activitats>

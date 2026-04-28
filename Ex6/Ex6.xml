@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<botiga>
+
+  <producte id="1" estat="esgotat">
+
+    <nom>Router ILB</nom>
+    <preu>10000</preu>
+    <stock>0</stock>
+
+    <categoria>informatica</categoria>
+
+    <marca>HP</marca>
+
+    <etiqueta>Poco fiables</etiqueta>
+    <etiqueta>oferta</etiqueta>
+
+  </producte>
+
+  <producte id="2" estat="oferta">
+
+    <nom>La biblia</nom>
+    <preu>50</preu>
+    <stock>300</stock>
+    <categoria>llibres</categoria>
+
+
+    <etiqueta>Imprescindibles</etiqueta>
+
+  </producte>
+</botiga>

@@ -1,0 +1,14 @@
+<!DOCTYPE alumne SYSTEM "alumne.dtd">
+
+<alumne id="1" tipus="distancia">
+
+  <nom>Xavier</nom>
+  <cognom>Chen</cognom>
+
+  <telefon>689576392</telefon>
+  <email>xchen@gmail.com</email>
+
+  <modul>base de dades</modul>
+  <modul>educació fisica</modul>
+
+</alumne>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<persona dni="68594029W">
+
+  <nom>Sebastian</nom>
+
+  <edat>18</edat>
+
+  <ciutat>Barcelona</ciutat>
+
+  <aficio>estudiar informatica</aficio>
+  <aficio>ligar</aficio>
+
+  <nivell>alt</nivell>
+
+</persona>
